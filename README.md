@@ -1,5 +1,7 @@
 # python-webserver-files-download
-this is special server to donwload files, if you have problem with sancions you can download packages at your server and download from server files to your sancions server
+This is a dedicated internal file-distribution server designed to bypass external access limitations, including sanctions-related restrictions.
+It allows you to download required packages or archives to this server first, and then securely fetch them from your isolated or restricted environments.
+By hosting files locally, you ensure reliable access to software dependencies even when direct downloads from the internet are unavailable or blocked.
 
 # 1 step
 ```bash
