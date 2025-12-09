@@ -32,3 +32,5 @@ Group=<username>
 [Install]
 WantedBy=multi-user.target
 ```
+
+## Dont forgot open port 8002 in your firewall or iptbales or ufw
